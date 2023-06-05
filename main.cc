@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main(void) {
-	ndr::Vec<int> v;
+	ndr::Vec v;
 	v.append(3);
 	v.append(5);
 	v.append(-12321312);
